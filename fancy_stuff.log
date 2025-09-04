@@ -1,0 +1,31 @@
+Bot start
+[2025-08-30 03:18:20] [INFO    ] discord.client: logging in using static token
+[2025-08-30 03:18:22] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 90c771846e459affa42f45e349fcca0c).
+[2025-08-30 03:18:24] [INFO    ] Main: Synced 7 slash command(s)
+[2025-08-30 03:18:24] [CRITICAL] Main: BOT connected
+[2025-08-30 03:28:10] [CRITICAL] Main: Bot shut down by a discord command
+Bot start
+[2025-08-30 22:47:18] [INFO    ] discord.client: logging in using static token
+[2025-08-30 22:47:21] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: de6101bcbe0594253afd43180eec15b1).
+[2025-08-30 22:47:23] [INFO    ] Main: Synced 7 slash command(s)
+[2025-08-30 22:47:23] [CRITICAL] Main: BOT connected
+[2025-08-30 22:50:37] [CRITICAL] Main: Bot shut down by a discord command
+Bot start
+[2025-08-30 22:50:52] [INFO    ] discord.client: logging in using static token
+[2025-08-30 22:50:53] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 36fdff3e3dbd01d8c1e0f4018c2fbec4).
+[2025-08-30 22:50:56] [INFO    ] Main: Synced 7 slash command(s)
+[2025-08-30 22:50:56] [CRITICAL] Main: BOT connected
+[2025-08-30 22:52:17] [CRITICAL] Main: Bot shut down by a discord command
+Bot start
+[2025-08-30 23:05:47] [INFO    ] discord.client: logging in using static token
+[2025-08-30 23:05:48] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 8b196340b4e6a3c94682ed9747f21641).
+[2025-08-30 23:05:50] [INFO    ] Main: Synced 7 slash command(s)
+[2025-08-30 23:05:50] [CRITICAL] Main: BOT connected
+[2025-08-30 23:07:50] [CRITICAL] Main: Bot shut down by a discord command
+Bot start
+[2025-08-30 23:07:56] [INFO    ] discord.client: logging in using static token
+[2025-08-30 23:07:57] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c1fd1e3a5743357af237eba55fad3d0f).
+[2025-08-30 23:08:00] [INFO    ] Main: Synced 7 slash command(s)
+[2025-08-30 23:08:00] [CRITICAL] Main: BOT connected
+[2025-08-30 23:08:01] [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "online" is not found
